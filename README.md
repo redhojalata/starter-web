@@ -13,5 +13,8 @@ Text
 ## GIT comparisons
 Adding GIT comparisons lecture
 
+## Contribution
+Fork the repo and raise pull request for review
+
 ## GITHub content
 Comparison with Repo
