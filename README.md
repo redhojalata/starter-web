@@ -6,6 +6,12 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##Other line
+## Other line
 
 Text
+
+## GIT comparisons
+Adding GIT comparisons lecture
+
+## GITHub content
+Comparison with Repo
