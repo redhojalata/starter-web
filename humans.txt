@@ -5,6 +5,7 @@
 
     redhojalata
     redhojalata@gmail.com
+    DEvops
 
 # THANKS
 
@@ -14,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
