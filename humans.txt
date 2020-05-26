@@ -5,6 +5,7 @@
 
     redhojalata
     redhojalata@gmail.com
+    Developer
 
 # THANKS
 
@@ -13,4 +14,5 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
-    jQuery, Modernizr, AJAX
+    jQuery, Modernizr
+    Machine Learning, AWS, Google Cloud
