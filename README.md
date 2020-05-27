@@ -12,7 +12,7 @@ Text
 
 ## GIT comparisons
 Adding GIT comparisons lecture
-Adding GIT Reabse lectures in GIT advance part.
+Adding GIT Reabse lectures in GIT advance part. We have done so much of work together.
 
 
 ## Contribution
