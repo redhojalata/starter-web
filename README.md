@@ -12,6 +12,8 @@ Text
 
 ## GIT comparisons
 Adding GIT comparisons lecture
+Adding GIT Reabse lectures in GIT advance part.
+
 
 ## Contribution
 Fork the repo and raise pull request for review
