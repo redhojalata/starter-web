@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+And lot of lectures are still coming on.
+
 ## Other line
 
 Text
