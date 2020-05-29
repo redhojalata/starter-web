@@ -22,3 +22,4 @@ Fork the repo and raise pull request for review
 
 ## GITHub content
 Comparison with Repo
+Adding new Lectures of stash
